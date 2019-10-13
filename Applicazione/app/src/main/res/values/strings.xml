@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlantCare</string>
+    <string name="wallpaper">wallpaper</string>
+    <string name="button">Button</string>
+    <string name="rectangle">rectangle</string>
+    <string name="acmea">Acmea</string>
+    <string name="ciao">Ciao</string>
+    <string name="textview">TextView</string>
+</resources>
